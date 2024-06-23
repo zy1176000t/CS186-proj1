@@ -12,7 +12,7 @@ target/*
 .settings/
 
 # Ignore all IntelliJ IDEA files
-.idea/*
+.idea/vcs.xml
 *.iml
 *.iws
 .attach_*
